@@ -1,0 +1,19 @@
+{
+  "name": "rockpaperscissors",
+  "version": "1.0.0",
+  "description": "rock paper scissors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msiroilem/rockpaperscissors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msiroilem/rockpaperscissors/issues"
+  },
+  "homepage": "https://github.com/msiroilem/rockpaperscissors#readme"
+}
